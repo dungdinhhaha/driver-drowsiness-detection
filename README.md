@@ -23,7 +23,7 @@ Hệ thống sử dụng webcam để giám sát người lái xe và phát hi�
 
 1. Clone repository:
 ```bash
-git clone https://github.com/[username]/driver-drowsiness-detection.git
+git clone https://github.com/[username]/driver-drowsiness-detection.git](https://github.com/dungdinhhaha/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
 ```
 
